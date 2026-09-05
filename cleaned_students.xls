@@ -1,0 +1,981 @@
+,StudentID,Name,Gender,Subject,Score,Grade
+0,1,Student_0001,Male,Mathematics,59.0,Pass
+1,2,Student_0002,Female,Mathematics,77.0,Pass
+2,3,Student_0003,Male,Mathematics,89.0,Pass
+3,4,Student_0004,Male,Social Studies,82.0,Pass
+4,5,Student_0005,Male,Computer Science,69.0,Pass
+5,6,Student_0006,Female,Social Studies,58.0,Pass
+6,7,Student_0007,Male,Computer Science,78.0,Pass
+7,8,Student_0008,Male,Social Studies,74.0,Pass
+8,9,Student_0009,Male,Social Studies,81.0,Pass
+9,10,Student_0010,Female,English,78.0,Pass
+10,11,Student_0011,Male,Social Studies,84.0,Pass
+11,12,Student_0012,Male,Science,60.0,Pass
+12,13,Student_0013,Male,English,88.0,Pass
+13,14,Student_0014,Male,Social Studies,71.0,Pass
+14,15,Student_0015,Female,Mathematics,99.0,Pass
+15,16,Student_0016,Male,Science,58.0,Pass
+16,17,Student_0017,Female,Science,94.0,Pass
+17,18,Student_0018,Female,Science,71.0,Pass
+18,19,Student_0019,Female,English,58.0,Pass
+19,20,Student_0020,Male,Social Studies,61.0,Pass
+20,21,Student_0021,Female,Social Studies,63.0,Pass
+21,22,Student_0022,Male,Mathematics,74.0,Pass
+22,23,Student_0023,Female,Mathematics,76.0,Pass
+23,24,Student_0024,Female,Science,59.0,Pass
+24,25,Student_0025,Female,Mathematics,68.0,Pass
+25,26,Student_0026,Female,English,100.0,Pass
+26,27,Student_0027,Female,Social Studies,94.0,Pass
+27,28,Student_0028,Female,Science,75.0,Pass
+28,29,Student_0029,Female,Mathematics,69.0,Pass
+29,30,Student_0030,Female,English,70.0,Pass
+30,31,Student_0031,Male,English,77.0,Pass
+31,32,Student_0032,Male,Mathematics,53.0,Pass
+32,33,Student_0033,Female,Social Studies,64.0,Pass
+33,34,Student_0034,Female,Mathematics,43.0,Pass
+34,35,Student_0035,Female,Science,74.0,Pass
+35,36,Student_0036,Male,Mathematics,78.0,Pass
+36,37,Student_0037,Female,English,61.0,Pass
+37,38,Student_0038,Male,Mathematics,92.0,Pass
+38,39,Student_0039,Male,Social Studies,50.0,Pass
+39,40,Student_0040,Male,Computer Science,46.0,Pass
+40,41,Student_0041,Male,Mathematics,71.0,Pass
+41,42,Student_0042,Male,Social Studies,84.0,Pass
+42,43,Student_0043,Female,Social Studies,93.0,Pass
+43,44,Student_0044,Female,English,61.0,Pass
+44,45,Student_0045,Female,Social Studies,84.0,Pass
+45,46,Student_0046,Female,Social Studies,67.0,Pass
+46,47,Student_0047,Female,Social Studies,65.0,Pass
+47,48,Student_0048,Male,Social Studies,81.0,Pass
+48,49,Student_0049,Female,Science,78.0,Pass
+49,50,Student_0050,Female,Science,44.0,Pass
+50,51,Student_0051,Male,English,90.0,Pass
+51,52,Student_0052,Female,Mathematics,89.0,Pass
+52,53,Student_0053,Male,Social Studies,59.0,Pass
+53,54,Student_0054,Female,Mathematics,74.0,Pass
+54,55,Student_0055,Male,Mathematics,75.0,Pass
+55,56,Student_0056,Female,English,72.0,Pass
+56,57,Student_0057,Female,Social Studies,60.0,Pass
+57,58,Student_0058,Male,Social Studies,58.0,Pass
+58,59,Student_0059,Male,Computer Science,68.0,Pass
+59,60,Student_0060,Male,Mathematics,86.0,Pass
+60,61,Student_0061,Male,Mathematics,76.0,Pass
+61,62,Student_0062,Male,Science,62.0,Pass
+62,63,Student_0063,Male,Computer Science,80.0,Pass
+63,64,Student_0064,Male,Science,25.0,Fail
+64,65,Student_0065,Male,Science,85.0,Pass
+65,66,Student_0066,Female,Science,42.0,Pass
+66,67,Student_0067,Female,English,63.0,Pass
+67,68,Student_0068,Male,English,51.0,Pass
+68,69,Student_0069,Female,Science,49.0,Pass
+69,70,Student_0070,Female,Computer Science,85.0,Pass
+70,71,Student_0071,Female,Mathematics,61.0,Pass
+71,72,Student_0072,Female,Computer Science,73.0,Pass
+72,73,Student_0073,Male,Social Studies,67.0,Pass
+73,74,Student_0074,Female,English,75.0,Pass
+74,75,Student_0075,Male,Mathematics,69.0,Pass
+75,76,Student_0076,Female,Mathematics,49.0,Pass
+76,77,Student_0077,Female,Social Studies,83.0,Pass
+77,78,Student_0078,Female,Social Studies,61.0,Pass
+78,79,Student_0079,Male,Science,45.0,Pass
+79,80,Student_0080,Female,English,62.0,Pass
+80,81,Student_0081,Male,English,91.0,Pass
+81,82,Student_0082,Female,Computer Science,81.0,Pass
+82,83,Student_0083,Male,Science,63.0,Pass
+83,84,Student_0084,Female,Science,63.0,Pass
+84,85,Student_0085,Male,Science,63.0,Pass
+85,86,Student_0086,Male,Science,99.0,Pass
+86,87,Student_0087,Female,English,74.0,Pass
+87,88,Student_0088,Male,English,74.0,Pass
+88,89,Student_0089,Female,Science,83.0,Pass
+89,90,Student_0090,Female,Computer Science,72.0,Pass
+90,91,Student_0091,Female,Mathematics,64.0,Pass
+91,92,Student_0092,Female,Mathematics,65.0,Pass
+92,93,Student_0093,Female,Computer Science,67.0,Pass
+93,94,Student_0094,Female,Science,67.0,Pass
+94,95,Student_0095,Female,English,79.0,Pass
+95,96,Student_0096,Female,Mathematics,69.0,Pass
+96,97,Student_0097,Female,Social Studies,79.0,Pass
+97,98,Student_0098,Female,Social Studies,67.0,Pass
+98,99,Student_0099,Female,Computer Science,69.0,Pass
+99,100,Student_0100,Male,Science,38.0,Fail
+100,101,Student_0101,Male,Mathematics,82.0,Pass
+101,102,Student_0102,Female,Science,73.0,Pass
+102,103,Student_0103,Female,Mathematics,83.0,Pass
+103,104,Student_0104,Female,Computer Science,25.0,Fail
+104,105,Student_0105,Female,Computer Science,99.0,Pass
+105,106,Student_0106,Female,Social Studies,66.0,Pass
+106,107,Student_0107,Female,Science,85.0,Pass
+107,108,Student_0108,Female,Social Studies,52.0,Pass
+108,109,Student_0109,Female,Science,77.0,Pass
+109,110,Student_0110,Male,Social Studies,52.0,Pass
+110,111,Student_0111,Female,English,59.0,Pass
+111,112,Student_0112,Male,English,97.0,Pass
+112,113,Student_0113,Female,English,65.0,Pass
+113,114,Student_0114,Female,English,71.0,Pass
+114,115,Student_0115,Male,Mathematics,81.0,Pass
+115,116,Student_0116,Female,English,75.0,Pass
+116,117,Student_0117,Male,Computer Science,70.0,Pass
+117,118,Student_0118,Female,Computer Science,73.0,Pass
+118,119,Student_0119,Female,Mathematics,100.0,Pass
+119,120,Student_0120,Male,English,67.0,Pass
+120,121,Student_0121,Female,English,71.0,Pass
+121,122,Student_0122,Male,English,84.0,Pass
+122,123,Student_0123,Female,Social Studies,85.0,Pass
+123,124,Student_0124,Male,Science,86.0,Pass
+124,125,Student_0125,Male,Social Studies,78.0,Pass
+125,126,Student_0126,Female,Science,51.0,Pass
+126,127,Student_0127,Female,English,93.0,Pass
+127,128,Student_0128,Male,English,51.0,Pass
+128,129,Student_0129,Female,Social Studies,73.0,Pass
+129,130,Student_0130,Female,Social Studies,57.0,Pass
+130,131,Student_0131,Female,Science,67.0,Pass
+131,132,Student_0132,Male,Computer Science,73.0,Pass
+132,133,Student_0133,Male,Science,73.0,Pass
+133,134,Student_0134,Male,Social Studies,74.0,Pass
+134,135,Student_0135,Male,Social Studies,92.0,Pass
+136,137,Student_0137,Male,Social Studies,64.0,Pass
+137,138,Student_0138,Male,Mathematics,82.0,Pass
+138,139,Student_0139,Male,Computer Science,86.0,Pass
+139,140,Student_0140,Male,Science,50.0,Pass
+140,141,Student_0141,Female,Science,77.0,Pass
+141,142,Student_0142,Male,Mathematics,79.0,Pass
+142,143,Student_0143,Female,Science,64.0,Pass
+144,145,Student_0145,Female,English,66.0,Pass
+145,146,Student_0146,Male,Mathematics,70.0,Pass
+146,147,Student_0147,Male,Science,65.0,Pass
+147,148,Student_0148,Male,Mathematics,68.0,Pass
+148,149,Student_0149,Male,Mathematics,52.0,Pass
+149,150,Student_0150,Female,English,46.0,Pass
+150,151,Student_0151,Male,Social Studies,92.0,Pass
+151,152,Student_0152,Male,Mathematics,55.0,Pass
+152,153,Student_0153,Male,Science,53.0,Pass
+153,154,Student_0154,Male,Computer Science,36.0,Fail
+154,155,Student_0155,Male,Mathematics,58.0,Pass
+155,156,Student_0156,Female,Mathematics,48.0,Pass
+156,157,Student_0157,Male,English,93.0,Pass
+157,158,Student_0158,Female,Social Studies,83.0,Pass
+158,159,Student_0159,Male,Computer Science,58.0,Pass
+159,160,Student_0160,Female,Science,100.0,Pass
+160,161,Student_0161,Male,Computer Science,83.0,Pass
+161,162,Student_0162,Male,Science,63.0,Pass
+162,163,Student_0163,Female,Social Studies,31.0,Fail
+163,164,Student_0164,Female,Science,100.0,Pass
+164,165,Student_0165,Female,English,47.0,Pass
+165,166,Student_0166,Male,English,43.0,Pass
+166,167,Student_0167,Female,English,83.0,Pass
+167,168,Student_0168,Male,English,100.0,Pass
+168,169,Student_0169,Male,Computer Science,89.0,Pass
+169,170,Student_0170,Female,Social Studies,76.0,Pass
+170,171,Student_0171,Female,Science,77.0,Pass
+171,172,Student_0172,Male,Science,81.0,Pass
+172,173,Student_0173,Male,English,79.0,Pass
+173,174,Student_0174,Female,English,72.0,Pass
+174,175,Student_0175,Female,Mathematics,70.0,Pass
+175,176,Student_0176,Female,Social Studies,67.0,Pass
+176,177,Student_0177,Male,Computer Science,57.0,Pass
+177,178,Student_0178,Male,Science,64.0,Pass
+178,179,Student_0179,Male,Mathematics,43.0,Pass
+179,180,Student_0180,Male,Mathematics,67.0,Pass
+180,181,Student_0181,Male,Science,53.0,Pass
+181,182,Student_0182,Male,Computer Science,51.0,Pass
+182,183,Student_0183,Female,Mathematics,71.0,Pass
+183,184,Student_0184,Male,Mathematics,89.0,Pass
+184,185,Student_0185,Male,Social Studies,82.0,Pass
+185,186,Student_0186,Male,Computer Science,44.0,Pass
+186,187,Student_0187,Female,Mathematics,53.0,Pass
+187,188,Student_0188,Male,Computer Science,82.0,Pass
+188,189,Student_0189,Male,Science,53.0,Pass
+189,190,Student_0190,Female,English,65.0,Pass
+190,191,Student_0191,Male,Mathematics,76.0,Pass
+191,192,Student_0192,Male,Social Studies,53.0,Pass
+192,193,Student_0193,Male,Science,70.0,Pass
+193,194,Student_0194,Male,Computer Science,48.0,Pass
+194,195,Student_0195,Male,Science,59.0,Pass
+195,196,Student_0196,Female,Mathematics,73.0,Pass
+196,197,Student_0197,Female,Computer Science,44.0,Pass
+197,198,Student_0198,Female,English,75.0,Pass
+198,199,Student_0199,Male,Science,68.0,Pass
+199,200,Student_0200,Male,Mathematics,76.0,Pass
+200,201,Student_0201,Male,Social Studies,71.0,Pass
+201,202,Student_0202,Female,Computer Science,88.0,Pass
+202,203,Student_0203,Male,Science,70.0,Pass
+203,204,Student_0204,Male,Science,62.0,Pass
+204,205,Student_0205,Female,English,70.0,Pass
+205,206,Student_0206,Male,English,76.0,Pass
+206,207,Student_0207,Female,Social Studies,69.0,Pass
+207,208,Student_0208,Female,Social Studies,69.0,Pass
+208,209,Student_0209,Female,Mathematics,57.0,Pass
+209,210,Student_0210,Male,Mathematics,58.0,Pass
+210,211,Student_0211,Male,Social Studies,47.0,Pass
+211,212,Student_0212,Male,Social Studies,94.0,Pass
+212,213,Student_0213,Male,Computer Science,49.0,Pass
+213,214,Student_0214,Male,English,58.0,Pass
+214,215,Student_0215,Male,Mathematics,57.0,Pass
+215,216,Student_0216,Male,English,81.0,Pass
+216,217,Student_0217,Female,English,64.0,Pass
+217,218,Student_0218,Male,Social Studies,87.0,Pass
+218,219,Student_0219,Female,Computer Science,58.0,Pass
+219,220,Student_0220,Male,Science,72.0,Pass
+220,221,Student_0221,Male,Computer Science,55.0,Pass
+221,222,Student_0222,Male,Computer Science,100.0,Pass
+222,223,Student_0223,Female,English,50.0,Pass
+223,224,Student_0224,Female,Computer Science,73.0,Pass
+224,225,Student_0225,Female,Mathematics,78.0,Pass
+225,226,Student_0226,Female,English,74.0,Pass
+226,227,Student_0227,Male,Mathematics,65.0,Pass
+227,228,Student_0228,Female,Science,66.0,Pass
+228,229,Student_0229,Male,English,69.0,Pass
+229,230,Student_0230,Male,Science,66.0,Pass
+230,231,Student_0231,Female,English,82.0,Pass
+231,232,Student_0232,Female,Social Studies,100.0,Pass
+232,233,Student_0233,Female,Computer Science,60.0,Pass
+233,234,Student_0234,Female,Social Studies,47.0,Pass
+234,235,Student_0235,Female,Science,67.0,Pass
+235,236,Student_0236,Female,Computer Science,100.0,Pass
+236,237,Student_0237,Female,English,56.0,Pass
+237,238,Student_0238,Female,Computer Science,93.0,Pass
+238,239,Student_0239,Male,Mathematics,93.0,Pass
+239,240,Student_0240,Female,Computer Science,60.0,Pass
+240,241,Student_0241,Female,Mathematics,77.0,Pass
+241,242,Student_0242,Male,Computer Science,92.0,Pass
+242,243,Student_0243,Female,Mathematics,62.0,Pass
+243,244,Student_0244,Male,Science,65.0,Pass
+244,245,Student_0245,Male,Social Studies,59.0,Pass
+245,246,Student_0246,Female,English,53.0,Pass
+246,247,Student_0247,Male,Computer Science,58.0,Pass
+247,248,Student_0248,Male,Social Studies,50.0,Pass
+248,249,Student_0249,Male,English,69.0,Pass
+249,250,Student_0250,Male,English,56.0,Pass
+250,251,Student_0251,Female,Mathematics,72.0,Pass
+251,252,Student_0252,Male,Science,45.0,Pass
+252,253,Student_0253,Female,Science,73.0,Pass
+253,254,Student_0254,Male,Social Studies,81.0,Pass
+254,255,Student_0255,Male,Science,38.0,Fail
+255,256,Student_0256,Male,Computer Science,74.0,Pass
+259,260,Student_0260,Male,Computer Science,74.0,Pass
+260,261,Student_0261,Male,Mathematics,57.0,Pass
+261,262,Student_0262,Female,Social Studies,67.0,Pass
+262,263,Student_0263,Male,Mathematics,76.0,Pass
+263,264,Student_0264,Male,Mathematics,69.0,Pass
+264,265,Student_0265,Male,Mathematics,76.0,Pass
+265,266,Student_0266,Female,English,54.0,Pass
+266,267,Student_0267,Female,English,71.0,Pass
+267,268,Student_0268,Female,Mathematics,47.0,Pass
+269,270,Student_0270,Male,Computer Science,54.0,Pass
+270,271,Student_0271,Female,Computer Science,57.0,Pass
+271,272,Student_0272,Female,Science,87.0,Pass
+272,273,Student_0273,Female,Social Studies,84.0,Pass
+273,274,Student_0274,Female,English,77.0,Pass
+275,276,Student_0276,Female,Science,63.0,Pass
+276,277,Student_0277,Male,Computer Science,86.0,Pass
+277,278,Student_0278,Female,English,70.0,Pass
+278,279,Student_0279,Male,English,100.0,Pass
+279,280,Student_0280,Female,Mathematics,74.0,Pass
+280,281,Student_0281,Female,Computer Science,71.0,Pass
+281,282,Student_0282,Female,Social Studies,63.0,Pass
+282,283,Student_0283,Female,English,70.0,Pass
+283,284,Student_0284,Male,Mathematics,66.0,Pass
+284,285,Student_0285,Female,Social Studies,79.0,Pass
+286,287,Student_0287,Male,English,56.0,Pass
+287,288,Student_0288,Male,Social Studies,48.0,Pass
+288,289,Student_0289,Male,Social Studies,40.0,Pass
+289,290,Student_0290,Female,Social Studies,76.0,Pass
+290,291,Student_0291,Male,English,51.0,Pass
+291,292,Student_0292,Male,English,36.0,Fail
+292,293,Student_0293,Male,Science,74.0,Pass
+293,294,Student_0294,Female,Computer Science,100.0,Pass
+294,295,Student_0295,Female,Mathematics,68.0,Pass
+295,296,Student_0296,Female,Social Studies,81.0,Pass
+296,297,Student_0297,Female,Science,69.0,Pass
+297,298,Student_0298,Male,Mathematics,67.0,Pass
+298,299,Student_0299,Male,Science,82.0,Pass
+299,300,Student_0300,Female,English,64.0,Pass
+300,301,Student_0301,Male,Social Studies,72.0,Pass
+301,302,Student_0302,Male,Mathematics,73.0,Pass
+302,303,Student_0303,Male,Mathematics,58.0,Pass
+303,304,Student_0304,Female,Mathematics,83.0,Pass
+304,305,Student_0305,Female,Mathematics,65.0,Pass
+305,306,Student_0306,Male,Mathematics,57.0,Pass
+306,307,Student_0307,Female,Science,76.0,Pass
+307,308,Student_0308,Female,Social Studies,55.0,Pass
+308,309,Student_0309,Female,English,68.0,Pass
+309,310,Student_0310,Female,English,68.0,Pass
+310,311,Student_0311,Female,English,84.0,Pass
+311,312,Student_0312,Male,English,75.0,Pass
+312,313,Student_0313,Female,Science,68.0,Pass
+313,314,Student_0314,Male,Computer Science,80.0,Pass
+314,315,Student_0315,Male,Social Studies,89.0,Pass
+315,316,Student_0316,Female,Mathematics,76.0,Pass
+316,317,Student_0317,Male,Computer Science,68.0,Pass
+317,318,Student_0318,Male,English,48.0,Pass
+318,319,Student_0319,Male,Computer Science,52.0,Pass
+319,320,Student_0320,Female,Social Studies,63.0,Pass
+320,321,Student_0321,Female,Mathematics,59.0,Pass
+321,322,Student_0322,Male,Mathematics,65.0,Pass
+322,323,Student_0323,Female,Social Studies,69.0,Pass
+323,324,Student_0324,Female,Social Studies,76.0,Pass
+324,325,Student_0325,Female,English,67.0,Pass
+325,326,Student_0326,Female,Mathematics,75.0,Pass
+326,327,Student_0327,Male,Computer Science,69.0,Pass
+327,328,Student_0328,Male,Science,38.0,Fail
+328,329,Student_0329,Female,Science,54.0,Pass
+329,330,Student_0330,Female,Social Studies,66.0,Pass
+330,331,Student_0331,Male,English,50.0,Pass
+331,332,Student_0332,Male,Science,77.0,Pass
+332,333,Student_0333,Female,Mathematics,91.0,Pass
+333,334,Student_0334,Male,Social Studies,86.0,Pass
+334,335,Student_0335,Female,Computer Science,65.0,Pass
+335,336,Student_0336,Female,Social Studies,90.0,Pass
+336,337,Student_0337,Male,Computer Science,70.0,Pass
+337,338,Student_0338,Male,Social Studies,63.0,Pass
+338,339,Student_0339,Female,Social Studies,59.0,Pass
+339,340,Student_0340,Female,Social Studies,63.0,Pass
+340,341,Student_0341,Male,Computer Science,62.0,Pass
+341,342,Student_0342,Female,Computer Science,71.0,Pass
+342,343,Student_0343,Male,Social Studies,70.0,Pass
+343,344,Student_0344,Female,Science,68.0,Pass
+344,345,Student_0345,Male,English,75.0,Pass
+345,346,Student_0346,Male,English,86.0,Pass
+346,347,Student_0347,Male,English,82.0,Pass
+347,348,Student_0348,Female,Computer Science,46.0,Pass
+348,349,Student_0349,Female,Computer Science,30.0,Fail
+349,350,Student_0350,Male,Science,82.0,Pass
+350,351,Student_0351,Female,English,47.0,Pass
+351,352,Student_0352,Male,English,65.0,Pass
+352,353,Student_0353,Male,Social Studies,50.0,Pass
+353,354,Student_0354,Female,Computer Science,41.0,Pass
+354,355,Student_0355,Female,English,76.0,Pass
+355,356,Student_0356,Male,Science,79.0,Pass
+356,357,Student_0357,Female,Science,59.0,Pass
+357,358,Student_0358,Female,English,29.0,Fail
+358,359,Student_0359,Male,Computer Science,60.0,Pass
+359,360,Student_0360,Male,Science,74.0,Pass
+360,361,Student_0361,Female,Social Studies,46.0,Pass
+361,362,Student_0362,Male,Science,71.0,Pass
+362,363,Student_0363,Male,Mathematics,68.0,Pass
+363,364,Student_0364,Female,Mathematics,77.0,Pass
+364,365,Student_0365,Male,Computer Science,70.0,Pass
+365,366,Student_0366,Male,English,53.0,Pass
+366,367,Student_0367,Female,Computer Science,86.0,Pass
+367,368,Student_0368,Female,Computer Science,66.0,Pass
+368,369,Student_0369,Male,Computer Science,68.0,Pass
+369,370,Student_0370,Male,Computer Science,54.0,Pass
+370,371,Student_0371,Female,Social Studies,61.0,Pass
+371,372,Student_0372,Female,Social Studies,55.0,Pass
+372,373,Student_0373,Female,Science,65.0,Pass
+373,374,Student_0374,Female,Mathematics,94.0,Pass
+374,375,Student_0375,Male,Computer Science,47.0,Pass
+375,376,Student_0376,Female,Science,44.0,Pass
+376,377,Student_0377,Female,Mathematics,90.0,Pass
+377,378,Student_0378,Male,English,65.0,Pass
+378,379,Student_0379,Female,Social Studies,58.0,Pass
+379,380,Student_0380,Male,Mathematics,84.0,Pass
+380,381,Student_0381,Female,English,59.0,Pass
+381,382,Student_0382,Female,Mathematics,95.0,Pass
+382,383,Student_0383,Female,Social Studies,78.0,Pass
+383,384,Student_0384,Male,Social Studies,61.0,Pass
+384,385,Student_0385,Male,Science,100.0,Pass
+385,386,Student_0386,Female,Computer Science,59.0,Pass
+386,387,Student_0387,Male,Mathematics,79.0,Pass
+387,388,Student_0388,Male,Mathematics,72.0,Pass
+388,389,Student_0389,Male,English,88.0,Pass
+389,390,Student_0390,Male,Social Studies,91.0,Pass
+390,391,Student_0391,Male,Mathematics,68.0,Pass
+391,392,Student_0392,Male,Social Studies,57.0,Pass
+392,393,Student_0393,Female,Mathematics,75.0,Pass
+393,394,Student_0394,Female,Science,58.0,Pass
+394,395,Student_0395,Male,Computer Science,98.0,Pass
+396,397,Student_0397,Female,Social Studies,63.0,Pass
+397,398,Student_0398,Female,Science,71.0,Pass
+398,399,Student_0399,Female,Mathematics,48.0,Pass
+399,400,Student_0400,Male,English,53.0,Pass
+400,401,Student_0401,Female,Computer Science,86.0,Pass
+401,402,Student_0402,Female,Mathematics,58.0,Pass
+402,403,Student_0403,Male,Science,52.0,Pass
+403,404,Student_0404,Male,English,76.0,Pass
+404,405,Student_0405,Female,Science,86.0,Pass
+405,406,Student_0406,Female,Science,79.0,Pass
+406,407,Student_0407,Female,English,83.0,Pass
+407,408,Student_0408,Female,Science,57.0,Pass
+408,409,Student_0409,Female,English,47.0,Pass
+409,410,Student_0410,Female,Mathematics,91.0,Pass
+410,411,Student_0411,Male,English,63.0,Pass
+411,412,Student_0412,Female,English,64.0,Pass
+412,413,Student_0413,Female,Computer Science,88.0,Pass
+413,414,Student_0414,Male,English,76.0,Pass
+414,415,Student_0415,Male,English,75.0,Pass
+415,416,Student_0416,Male,Mathematics,100.0,Pass
+416,417,Student_0417,Male,Computer Science,58.0,Pass
+418,419,Student_0419,Female,Mathematics,69.0,Pass
+419,420,Student_0420,Female,Mathematics,72.0,Pass
+420,421,Student_0421,Female,Social Studies,91.0,Pass
+421,422,Student_0422,Female,English,76.0,Pass
+422,423,Student_0423,Female,Science,76.0,Pass
+423,424,Student_0424,Male,Computer Science,84.0,Pass
+424,425,Student_0425,Female,Science,63.0,Pass
+425,426,Student_0426,Male,Social Studies,55.0,Pass
+426,427,Student_0427,Male,Mathematics,52.0,Pass
+427,428,Student_0428,Female,Mathematics,39.0,Fail
+428,429,Student_0429,Male,Computer Science,99.0,Pass
+429,430,Student_0430,Female,Mathematics,51.0,Pass
+430,431,Student_0431,Male,Mathematics,65.0,Pass
+431,432,Student_0432,Female,Computer Science,64.0,Pass
+432,433,Student_0433,Male,Computer Science,73.0,Pass
+433,434,Student_0434,Female,Social Studies,80.0,Pass
+434,435,Student_0435,Female,Mathematics,81.0,Pass
+435,436,Student_0436,Female,Mathematics,59.0,Pass
+436,437,Student_0437,Female,Social Studies,65.0,Pass
+437,438,Student_0438,Female,English,72.0,Pass
+438,439,Student_0439,Male,English,64.0,Pass
+439,440,Student_0440,Male,English,92.0,Pass
+440,441,Student_0441,Male,Social Studies,75.0,Pass
+442,443,Student_0443,Male,Social Studies,78.0,Pass
+444,445,Student_0445,Female,English,71.0,Pass
+445,446,Student_0446,Male,Science,49.0,Pass
+446,447,Student_0447,Male,Mathematics,74.0,Pass
+447,448,Student_0448,Female,English,58.0,Pass
+448,449,Student_0449,Male,Science,60.0,Pass
+449,450,Student_0450,Female,Science,77.0,Pass
+450,451,Student_0451,Female,Computer Science,87.0,Pass
+451,452,Student_0452,Female,Mathematics,68.0,Pass
+452,453,Student_0453,Female,Science,73.0,Pass
+453,454,Student_0454,Female,English,94.0,Pass
+454,455,Student_0455,Male,Computer Science,72.0,Pass
+455,456,Student_0456,Male,Mathematics,100.0,Pass
+456,457,Student_0457,Female,Social Studies,76.0,Pass
+457,458,Student_0458,Female,English,42.0,Pass
+458,459,Student_0459,Male,Science,79.0,Pass
+459,460,Student_0460,Male,Science,74.0,Pass
+460,461,Student_0461,Female,English,87.0,Pass
+461,462,Student_0462,Male,Science,78.0,Pass
+462,463,Student_0463,Female,Computer Science,66.0,Pass
+463,464,Student_0464,Male,Mathematics,50.0,Pass
+464,465,Student_0465,Female,Computer Science,65.0,Pass
+465,466,Student_0466,Male,Science,55.0,Pass
+466,467,Student_0467,Female,Social Studies,59.0,Pass
+467,468,Student_0468,Male,Mathematics,77.0,Pass
+468,469,Student_0469,Male,Mathematics,93.0,Pass
+469,470,Student_0470,Female,English,74.0,Pass
+470,471,Student_0471,Male,English,50.0,Pass
+471,472,Student_0472,Female,Social Studies,75.0,Pass
+472,473,Student_0473,Male,Mathematics,86.0,Pass
+473,474,Student_0474,Female,Social Studies,59.0,Pass
+474,475,Student_0475,Male,English,66.0,Pass
+475,476,Student_0476,Female,English,68.0,Pass
+476,477,Student_0477,Male,Mathematics,56.0,Pass
+477,478,Student_0478,Female,Computer Science,78.0,Pass
+478,479,Student_0479,Male,Science,66.0,Pass
+479,480,Student_0480,Female,English,74.0,Pass
+480,481,Student_0481,Female,English,55.0,Pass
+481,482,Student_0482,Female,Computer Science,61.0,Pass
+482,483,Student_0483,Male,Computer Science,79.0,Pass
+483,484,Student_0484,Female,Social Studies,62.0,Pass
+484,485,Student_0485,Male,Social Studies,94.0,Pass
+485,486,Student_0486,Female,Science,62.0,Pass
+487,488,Student_0488,Female,Mathematics,82.0,Pass
+488,489,Student_0489,Male,Social Studies,47.0,Pass
+489,490,Student_0490,Male,English,42.0,Pass
+490,491,Student_0491,Female,Social Studies,45.0,Pass
+491,492,Student_0492,Male,English,87.0,Pass
+492,493,Student_0493,Male,Computer Science,60.0,Pass
+493,494,Student_0494,Female,Social Studies,100.0,Pass
+494,495,Student_0495,Male,Computer Science,60.0,Pass
+495,496,Student_0496,Male,Science,71.0,Pass
+496,497,Student_0497,Male,Science,91.0,Pass
+497,498,Student_0498,Female,Mathematics,98.0,Pass
+498,499,Student_0499,Male,Social Studies,99.0,Pass
+499,500,Student_0500,Female,Computer Science,86.0,Pass
+500,501,Student_0501,Male,English,83.0,Pass
+501,502,Student_0502,Male,Science,77.0,Pass
+502,503,Student_0503,Male,Science,80.0,Pass
+503,504,Student_0504,Female,English,60.0,Pass
+504,505,Student_0505,Male,Computer Science,56.0,Pass
+505,506,Student_0506,Male,Computer Science,68.0,Pass
+506,507,Student_0507,Female,Social Studies,65.0,Pass
+507,508,Student_0508,Male,Social Studies,61.0,Pass
+509,510,Student_0510,Female,Science,82.0,Pass
+510,511,Student_0511,Male,Social Studies,69.0,Pass
+511,512,Student_0512,Female,Computer Science,90.0,Pass
+512,513,Student_0513,Male,English,51.0,Pass
+513,514,Student_0514,Female,Computer Science,65.0,Pass
+514,515,Student_0515,Female,Science,57.0,Pass
+515,516,Student_0516,Male,Computer Science,40.0,Pass
+516,517,Student_0517,Female,Mathematics,67.0,Pass
+517,518,Student_0518,Female,Science,66.0,Pass
+518,519,Student_0519,Female,English,91.0,Pass
+519,520,Student_0520,Female,Mathematics,77.0,Pass
+520,521,Student_0521,Female,Science,53.0,Pass
+521,522,Student_0522,Male,English,96.0,Pass
+522,523,Student_0523,Female,Mathematics,86.0,Pass
+523,524,Student_0524,Male,Mathematics,77.0,Pass
+524,525,Student_0525,Female,Science,65.0,Pass
+525,526,Student_0526,Male,Social Studies,54.0,Pass
+526,527,Student_0527,Male,Mathematics,62.0,Pass
+527,528,Student_0528,Female,Mathematics,84.0,Pass
+528,529,Student_0529,Female,English,96.0,Pass
+529,530,Student_0530,Female,Computer Science,91.0,Pass
+530,531,Student_0531,Male,Science,61.0,Pass
+531,532,Student_0532,Female,Science,51.0,Pass
+532,533,Student_0533,Male,Social Studies,70.0,Pass
+533,534,Student_0534,Male,Social Studies,41.0,Pass
+534,535,Student_0535,Male,Science,73.0,Pass
+535,536,Student_0536,Female,Social Studies,66.0,Pass
+536,537,Student_0537,Female,English,61.0,Pass
+537,538,Student_0538,Male,Science,44.0,Pass
+538,539,Student_0539,Male,Social Studies,76.0,Pass
+539,540,Student_0540,Female,Science,60.0,Pass
+540,541,Student_0541,Male,Computer Science,50.0,Pass
+541,542,Student_0542,Female,Mathematics,25.0,Fail
+542,543,Student_0543,Male,Science,68.0,Pass
+543,544,Student_0544,Female,Mathematics,95.0,Pass
+544,545,Student_0545,Male,Social Studies,93.0,Pass
+545,546,Student_0546,Female,Mathematics,61.0,Pass
+546,547,Student_0547,Male,Science,59.0,Pass
+547,548,Student_0548,Female,Computer Science,75.0,Pass
+548,549,Student_0549,Female,Social Studies,53.0,Pass
+549,550,Student_0550,Male,Science,73.0,Pass
+550,551,Student_0551,Male,Social Studies,79.0,Pass
+551,552,Student_0552,Female,English,86.0,Pass
+552,553,Student_0553,Male,Mathematics,66.0,Pass
+553,554,Student_0554,Female,English,65.0,Pass
+554,555,Student_0555,Male,Science,55.0,Pass
+555,556,Student_0556,Female,Computer Science,56.0,Pass
+556,557,Student_0557,Female,Social Studies,65.0,Pass
+557,558,Student_0558,Female,Mathematics,74.0,Pass
+558,559,Student_0559,Female,Social Studies,82.0,Pass
+559,560,Student_0560,Female,Science,56.0,Pass
+560,561,Student_0561,Female,Social Studies,90.0,Pass
+561,562,Student_0562,Male,Mathematics,64.0,Pass
+562,563,Student_0563,Male,Science,68.0,Pass
+563,564,Student_0564,Male,Social Studies,57.0,Pass
+564,565,Student_0565,Female,Computer Science,32.0,Fail
+565,566,Student_0566,Female,Science,81.0,Pass
+566,567,Student_0567,Female,Science,79.0,Pass
+567,568,Student_0568,Female,Computer Science,64.0,Pass
+568,569,Student_0569,Male,English,69.0,Pass
+569,570,Student_0570,Male,Mathematics,76.0,Pass
+570,571,Student_0571,Female,English,45.0,Pass
+571,572,Student_0572,Male,Social Studies,60.0,Pass
+572,573,Student_0573,Male,Computer Science,80.0,Pass
+573,574,Student_0574,Female,English,49.0,Pass
+574,575,Student_0575,Male,Science,72.0,Pass
+575,576,Student_0576,Female,Social Studies,48.0,Pass
+576,577,Student_0577,Male,Social Studies,75.0,Pass
+577,578,Student_0578,Female,English,67.0,Pass
+578,579,Student_0579,Female,English,44.0,Pass
+579,580,Student_0580,Female,Computer Science,85.0,Pass
+580,581,Student_0581,Female,Mathematics,57.0,Pass
+581,582,Student_0582,Male,English,56.0,Pass
+582,583,Student_0583,Female,English,71.0,Pass
+583,584,Student_0584,Female,Science,85.0,Pass
+584,585,Student_0585,Female,Social Studies,53.0,Pass
+585,586,Student_0586,Male,Mathematics,69.0,Pass
+586,587,Student_0587,Female,Science,74.0,Pass
+587,588,Student_0588,Male,Computer Science,78.0,Pass
+588,589,Student_0589,Female,Computer Science,71.0,Pass
+589,590,Student_0590,Male,English,62.0,Pass
+590,591,Student_0591,Male,English,56.0,Pass
+592,593,Student_0593,Male,English,52.0,Pass
+593,594,Student_0594,Female,Mathematics,24.0,Fail
+594,595,Student_0595,Female,English,75.0,Pass
+595,596,Student_0596,Female,Social Studies,82.0,Pass
+596,597,Student_0597,Male,English,33.0,Fail
+597,598,Student_0598,Male,Science,53.0,Pass
+598,599,Student_0599,Female,Mathematics,77.0,Pass
+599,600,Student_0600,Female,Science,99.0,Pass
+600,601,Student_0601,Male,Science,68.0,Pass
+601,602,Student_0602,Female,Social Studies,57.0,Pass
+602,603,Student_0603,Female,Mathematics,65.0,Pass
+603,604,Student_0604,Female,Mathematics,89.0,Pass
+604,605,Student_0605,Male,Mathematics,58.0,Pass
+605,606,Student_0606,Male,Mathematics,56.0,Pass
+606,607,Student_0607,Male,Mathematics,61.0,Pass
+607,608,Student_0608,Female,Social Studies,54.0,Pass
+608,609,Student_0609,Female,English,70.0,Pass
+609,610,Student_0610,Female,Science,92.0,Pass
+610,611,Student_0611,Male,Mathematics,73.0,Pass
+611,612,Student_0612,Female,English,64.0,Pass
+612,613,Student_0613,Female,English,64.0,Pass
+613,614,Student_0614,Female,Science,45.0,Pass
+614,615,Student_0615,Female,Social Studies,81.0,Pass
+615,616,Student_0616,Male,Computer Science,67.0,Pass
+616,617,Student_0617,Male,Computer Science,65.0,Pass
+617,618,Student_0618,Female,English,100.0,Pass
+618,619,Student_0619,Male,Science,72.0,Pass
+619,620,Student_0620,Male,Computer Science,57.0,Pass
+620,621,Student_0621,Female,English,62.0,Pass
+621,622,Student_0622,Female,Social Studies,85.0,Pass
+622,623,Student_0623,Male,Computer Science,70.0,Pass
+623,624,Student_0624,Female,English,46.0,Pass
+624,625,Student_0625,Male,English,82.0,Pass
+625,626,Student_0626,Female,Mathematics,58.0,Pass
+626,627,Student_0627,Male,Social Studies,96.0,Pass
+627,628,Student_0628,Female,Mathematics,84.0,Pass
+628,629,Student_0629,Male,Science,61.0,Pass
+629,630,Student_0630,Male,Mathematics,87.0,Pass
+630,631,Student_0631,Male,Mathematics,69.0,Pass
+631,632,Student_0632,Female,Computer Science,81.0,Pass
+632,633,Student_0633,Male,English,75.0,Pass
+633,634,Student_0634,Male,Social Studies,55.0,Pass
+634,635,Student_0635,Female,Mathematics,58.0,Pass
+635,636,Student_0636,Female,Social Studies,83.0,Pass
+636,637,Student_0637,Male,Mathematics,63.0,Pass
+637,638,Student_0638,Male,Science,62.0,Pass
+638,639,Student_0639,Female,Mathematics,54.0,Pass
+639,640,Student_0640,Female,Computer Science,74.0,Pass
+640,641,Student_0641,Female,English,99.0,Pass
+641,642,Student_0642,Female,Science,52.0,Pass
+643,644,Student_0644,Male,Social Studies,89.0,Pass
+644,645,Student_0645,Female,Science,67.0,Pass
+645,646,Student_0646,Male,Science,75.0,Pass
+646,647,Student_0647,Male,Mathematics,52.0,Pass
+647,648,Student_0648,Male,Science,74.0,Pass
+648,649,Student_0649,Female,Social Studies,65.0,Pass
+649,650,Student_0650,Male,Science,83.0,Pass
+650,651,Student_0651,Male,Social Studies,86.0,Pass
+651,652,Student_0652,Female,Mathematics,100.0,Pass
+653,654,Student_0654,Male,Science,73.0,Pass
+654,655,Student_0655,Female,English,71.0,Pass
+655,656,Student_0656,Male,Social Studies,63.0,Pass
+656,657,Student_0657,Male,Science,73.0,Pass
+657,658,Student_0658,Male,Computer Science,64.0,Pass
+658,659,Student_0659,Female,English,71.0,Pass
+659,660,Student_0660,Female,Science,88.0,Pass
+660,661,Student_0661,Female,English,53.0,Pass
+661,662,Student_0662,Male,Science,85.0,Pass
+662,663,Student_0663,Male,Mathematics,88.0,Pass
+663,664,Student_0664,Female,English,66.0,Pass
+664,665,Student_0665,Male,Computer Science,36.0,Fail
+665,666,Student_0666,Male,Computer Science,59.0,Pass
+666,667,Student_0667,Female,Social Studies,87.0,Pass
+667,668,Student_0668,Female,Science,68.0,Pass
+668,669,Student_0669,Male,English,53.0,Pass
+669,670,Student_0670,Male,Social Studies,60.0,Pass
+670,671,Student_0671,Male,English,81.0,Pass
+671,672,Student_0672,Female,Science,76.0,Pass
+672,673,Student_0673,Female,Computer Science,64.0,Pass
+673,674,Student_0674,Female,Mathematics,62.0,Pass
+674,675,Student_0675,Female,Computer Science,62.0,Pass
+675,676,Student_0676,Male,Social Studies,54.0,Pass
+676,677,Student_0677,Female,Mathematics,92.0,Pass
+677,678,Student_0678,Female,Social Studies,63.0,Pass
+678,679,Student_0679,Female,Science,86.0,Pass
+679,680,Student_0680,Female,Mathematics,91.0,Pass
+680,681,Student_0681,Female,Social Studies,83.0,Pass
+681,682,Student_0682,Male,Science,62.0,Pass
+682,683,Student_0683,Male,Computer Science,74.0,Pass
+683,684,Student_0684,Female,Science,68.0,Pass
+684,685,Student_0685,Male,English,54.0,Pass
+685,686,Student_0686,Female,Science,73.0,Pass
+686,687,Student_0687,Female,Science,50.0,Pass
+687,688,Student_0688,Male,English,86.0,Pass
+688,689,Student_0689,Male,Social Studies,61.0,Pass
+689,690,Student_0690,Female,Social Studies,71.0,Pass
+690,691,Student_0691,Female,Science,72.0,Pass
+691,692,Student_0692,Female,English,64.0,Pass
+692,693,Student_0693,Male,English,77.0,Pass
+693,694,Student_0694,Female,Computer Science,61.0,Pass
+694,695,Student_0695,Female,Social Studies,81.0,Pass
+695,696,Student_0696,Female,Mathematics,48.0,Pass
+696,697,Student_0697,Male,Social Studies,70.0,Pass
+697,698,Student_0698,Female,Social Studies,97.0,Pass
+698,699,Student_0699,Female,Computer Science,53.0,Pass
+699,700,Student_0700,Male,Mathematics,58.0,Pass
+700,701,Student_0701,Female,Computer Science,76.0,Pass
+701,702,Student_0702,Female,Mathematics,71.0,Pass
+702,703,Student_0703,Male,Science,73.0,Pass
+703,704,Student_0704,Female,Mathematics,75.0,Pass
+704,705,Student_0705,Male,Computer Science,78.0,Pass
+705,706,Student_0706,Male,Social Studies,85.0,Pass
+706,707,Student_0707,Female,Mathematics,74.0,Pass
+707,708,Student_0708,Female,Mathematics,64.0,Pass
+708,709,Student_0709,Female,English,78.0,Pass
+709,710,Student_0710,Female,Social Studies,96.0,Pass
+710,711,Student_0711,Male,Science,66.0,Pass
+711,712,Student_0712,Female,Computer Science,53.0,Pass
+712,713,Student_0713,Male,Science,85.0,Pass
+713,714,Student_0714,Female,Social Studies,66.0,Pass
+714,715,Student_0715,Female,Mathematics,35.0,Fail
+715,716,Student_0716,Female,Mathematics,81.0,Pass
+716,717,Student_0717,Male,Social Studies,60.0,Pass
+717,718,Student_0718,Female,Mathematics,67.0,Pass
+718,719,Student_0719,Female,Mathematics,73.0,Pass
+719,720,Student_0720,Female,Mathematics,71.0,Pass
+720,721,Student_0721,Female,Computer Science,79.0,Pass
+721,722,Student_0722,Male,Computer Science,61.0,Pass
+722,723,Student_0723,Female,English,76.0,Pass
+723,724,Student_0724,Male,Science,64.0,Pass
+724,725,Student_0725,Male,Social Studies,79.0,Pass
+725,726,Student_0726,Male,Social Studies,77.0,Pass
+726,727,Student_0727,Male,Social Studies,54.0,Pass
+727,728,Student_0728,Male,English,84.0,Pass
+728,729,Student_0729,Male,Computer Science,60.0,Pass
+729,730,Student_0730,Female,English,80.0,Pass
+730,731,Student_0731,Male,Social Studies,74.0,Pass
+731,732,Student_0732,Male,Science,96.0,Pass
+732,733,Student_0733,Male,Mathematics,65.0,Pass
+733,734,Student_0734,Female,Computer Science,63.0,Pass
+734,735,Student_0735,Female,Computer Science,68.0,Pass
+735,736,Student_0736,Male,English,63.0,Pass
+736,737,Student_0737,Female,Computer Science,80.0,Pass
+737,738,Student_0738,Male,Social Studies,44.0,Pass
+738,739,Student_0739,Male,Social Studies,52.0,Pass
+739,740,Student_0740,Female,English,52.0,Pass
+740,741,Student_0741,Male,Social Studies,82.0,Pass
+741,742,Student_0742,Female,Science,94.0,Pass
+742,743,Student_0743,Female,English,66.0,Pass
+743,744,Student_0744,Male,Science,65.0,Pass
+744,745,Student_0745,Male,Mathematics,69.0,Pass
+745,746,Student_0746,Female,Science,85.0,Pass
+746,747,Student_0747,Male,Mathematics,54.0,Pass
+747,748,Student_0748,Male,Mathematics,72.0,Pass
+748,749,Student_0749,Male,Science,83.0,Pass
+749,750,Student_0750,Female,English,76.0,Pass
+750,751,Student_0751,Female,Social Studies,71.0,Pass
+751,752,Student_0752,Male,Social Studies,83.0,Pass
+752,753,Student_0753,Female,Mathematics,27.0,Fail
+753,754,Student_0754,Female,Mathematics,78.0,Pass
+754,755,Student_0755,Female,English,58.0,Pass
+755,756,Student_0756,Female,Computer Science,41.0,Pass
+756,757,Student_0757,Female,Science,76.0,Pass
+757,758,Student_0758,Male,Mathematics,89.0,Pass
+758,759,Student_0759,Male,Social Studies,66.0,Pass
+759,760,Student_0760,Male,English,82.0,Pass
+761,762,Student_0762,Female,English,88.0,Pass
+762,763,Student_0763,Male,Science,93.0,Pass
+764,765,Student_0765,Male,Mathematics,69.0,Pass
+765,766,Student_0766,Male,English,44.0,Pass
+766,767,Student_0767,Male,English,64.0,Pass
+767,768,Student_0768,Female,Social Studies,55.0,Pass
+768,769,Student_0769,Female,Social Studies,100.0,Pass
+769,770,Student_0770,Male,Mathematics,65.0,Pass
+770,771,Student_0771,Male,Mathematics,70.0,Pass
+771,772,Student_0772,Male,Computer Science,76.0,Pass
+772,773,Student_0773,Male,Social Studies,69.0,Pass
+773,774,Student_0774,Female,Science,93.0,Pass
+774,775,Student_0775,Female,English,59.0,Pass
+775,776,Student_0776,Male,Mathematics,71.0,Pass
+776,777,Student_0777,Male,English,57.0,Pass
+777,778,Student_0778,Female,English,48.0,Pass
+778,779,Student_0779,Female,Computer Science,59.0,Pass
+779,780,Student_0780,Male,Social Studies,67.0,Pass
+780,781,Student_0781,Male,Mathematics,62.0,Pass
+781,782,Student_0782,Male,English,58.0,Pass
+782,783,Student_0783,Female,Mathematics,47.0,Pass
+783,784,Student_0784,Female,Science,67.0,Pass
+784,785,Student_0785,Female,Computer Science,45.0,Pass
+785,786,Student_0786,Male,Science,79.0,Pass
+786,787,Student_0787,Male,Mathematics,69.0,Pass
+787,788,Student_0788,Female,Mathematics,46.0,Pass
+788,789,Student_0789,Female,Social Studies,63.0,Pass
+789,790,Student_0790,Male,English,57.0,Pass
+790,791,Student_0791,Female,English,73.0,Pass
+791,792,Student_0792,Female,Science,88.0,Pass
+792,793,Student_0793,Male,Computer Science,40.0,Pass
+793,794,Student_0794,Female,English,70.0,Pass
+794,795,Student_0795,Male,Social Studies,66.0,Pass
+795,796,Student_0796,Male,Science,78.0,Pass
+796,797,Student_0797,Male,Science,71.0,Pass
+797,798,Student_0798,Male,Social Studies,57.0,Pass
+798,799,Student_0799,Male,Computer Science,63.0,Pass
+799,800,Student_0800,Male,Social Studies,56.0,Pass
+800,801,Student_0801,Male,Computer Science,84.0,Pass
+801,802,Student_0802,Female,Social Studies,68.0,Pass
+802,803,Student_0803,Male,Social Studies,97.0,Pass
+803,804,Student_0804,Male,Mathematics,67.0,Pass
+804,805,Student_0805,Female,Science,57.0,Pass
+805,806,Student_0806,Female,Social Studies,45.0,Pass
+806,807,Student_0807,Female,Social Studies,41.0,Pass
+808,809,Student_0809,Female,Science,72.0,Pass
+809,810,Student_0810,Male,English,76.0,Pass
+810,811,Student_0811,Male,Science,44.0,Pass
+811,812,Student_0812,Male,English,81.0,Pass
+812,813,Student_0813,Male,Social Studies,61.0,Pass
+813,814,Student_0814,Female,Social Studies,70.0,Pass
+814,815,Student_0815,Female,Mathematics,92.0,Pass
+815,816,Student_0816,Male,English,81.0,Pass
+816,817,Student_0817,Male,Computer Science,64.0,Pass
+817,818,Student_0818,Male,Mathematics,55.0,Pass
+818,819,Student_0819,Female,English,36.0,Fail
+819,820,Student_0820,Male,English,57.0,Pass
+820,821,Student_0821,Male,Mathematics,65.0,Pass
+821,822,Student_0822,Female,Social Studies,53.0,Pass
+822,823,Student_0823,Female,English,66.0,Pass
+823,824,Student_0824,Male,Social Studies,69.0,Pass
+824,825,Student_0825,Female,Mathematics,65.0,Pass
+825,826,Student_0826,Female,Social Studies,58.0,Pass
+826,827,Student_0827,Male,Science,71.0,Pass
+827,828,Student_0828,Female,Computer Science,75.0,Pass
+828,829,Student_0829,Male,English,52.0,Pass
+829,830,Student_0830,Female,Computer Science,89.0,Pass
+830,831,Student_0831,Male,Social Studies,67.0,Pass
+831,832,Student_0832,Male,English,68.0,Pass
+832,833,Student_0833,Male,Social Studies,79.0,Pass
+833,834,Student_0834,Female,Science,71.0,Pass
+834,835,Student_0835,Male,Mathematics,82.0,Pass
+835,836,Student_0836,Female,English,72.0,Pass
+836,837,Student_0837,Male,Science,59.0,Pass
+837,838,Student_0838,Male,Science,73.0,Pass
+838,839,Student_0839,Female,English,51.0,Pass
+839,840,Student_0840,Male,Social Studies,70.0,Pass
+840,841,Student_0841,Male,Science,68.0,Pass
+841,842,Student_0842,Female,Computer Science,65.0,Pass
+842,843,Student_0843,Male,Science,66.0,Pass
+843,844,Student_0844,Male,Social Studies,40.0,Pass
+844,845,Student_0845,Male,Social Studies,60.0,Pass
+845,846,Student_0846,Male,Computer Science,69.0,Pass
+846,847,Student_0847,Female,Science,70.0,Pass
+847,848,Student_0848,Female,Social Studies,53.0,Pass
+848,849,Student_0849,Male,English,87.0,Pass
+849,850,Student_0850,Female,Mathematics,55.0,Pass
+850,851,Student_0851,Male,Mathematics,83.0,Pass
+851,852,Student_0852,Female,Mathematics,74.0,Pass
+852,853,Student_0853,Male,Science,58.0,Pass
+853,854,Student_0854,Male,Computer Science,95.0,Pass
+854,855,Student_0855,Male,Social Studies,50.0,Pass
+855,856,Student_0856,Male,English,82.0,Pass
+856,857,Student_0857,Male,English,83.0,Pass
+857,858,Student_0858,Male,Science,58.0,Pass
+858,859,Student_0859,Female,Mathematics,89.0,Pass
+859,860,Student_0860,Male,Science,64.0,Pass
+860,861,Student_0861,Female,Computer Science,72.0,Pass
+861,862,Student_0862,Male,Computer Science,72.0,Pass
+862,863,Student_0863,Female,Social Studies,66.0,Pass
+863,864,Student_0864,Female,Social Studies,80.0,Pass
+864,865,Student_0865,Female,Computer Science,80.0,Pass
+865,866,Student_0866,Male,Computer Science,42.0,Pass
+866,867,Student_0867,Male,Computer Science,88.0,Pass
+867,868,Student_0868,Female,Science,43.0,Pass
+868,869,Student_0869,Male,Computer Science,83.0,Pass
+869,870,Student_0870,Female,English,85.0,Pass
+870,871,Student_0871,Male,Mathematics,52.0,Pass
+871,872,Student_0872,Female,Computer Science,62.0,Pass
+872,873,Student_0873,Female,Mathematics,51.0,Pass
+873,874,Student_0874,Male,Science,65.0,Pass
+874,875,Student_0875,Female,Mathematics,63.0,Pass
+875,876,Student_0876,Male,Science,80.0,Pass
+876,877,Student_0877,Female,English,88.0,Pass
+877,878,Student_0878,Female,Science,89.0,Pass
+878,879,Student_0879,Male,Science,60.0,Pass
+879,880,Student_0880,Male,Social Studies,65.0,Pass
+880,881,Student_0881,Male,Computer Science,43.0,Pass
+881,882,Student_0882,Female,Computer Science,56.0,Pass
+882,883,Student_0883,Male,English,82.0,Pass
+883,884,Student_0884,Female,English,92.0,Pass
+884,885,Student_0885,Female,Computer Science,49.0,Pass
+885,886,Student_0886,Male,Social Studies,59.0,Pass
+886,887,Student_0887,Male,Computer Science,68.0,Pass
+887,888,Student_0888,Female,Social Studies,72.0,Pass
+888,889,Student_0889,Female,English,56.0,Pass
+889,890,Student_0890,Male,Mathematics,74.0,Pass
+890,891,Student_0891,Male,English,61.0,Pass
+891,892,Student_0892,Male,English,68.0,Pass
+892,893,Student_0893,Male,Science,76.0,Pass
+893,894,Student_0894,Male,Science,68.0,Pass
+894,895,Student_0895,Female,Science,61.0,Pass
+895,896,Student_0896,Female,Science,66.0,Pass
+896,897,Student_0897,Female,Social Studies,67.0,Pass
+897,898,Student_0898,Female,Computer Science,62.0,Pass
+898,899,Student_0899,Male,Mathematics,64.0,Pass
+899,900,Student_0900,Male,English,92.0,Pass
+900,901,Student_0901,Male,Social Studies,76.0,Pass
+901,902,Student_0902,Female,Mathematics,64.0,Pass
+902,903,Student_0903,Female,Social Studies,78.0,Pass
+903,904,Student_0904,Male,Social Studies,63.0,Pass
+904,905,Student_0905,Male,English,86.0,Pass
+905,906,Student_0906,Female,Computer Science,74.0,Pass
+906,907,Student_0907,Female,Science,66.0,Pass
+907,908,Student_0908,Male,Computer Science,75.0,Pass
+908,909,Student_0909,Male,English,44.0,Pass
+909,910,Student_0910,Female,English,51.0,Pass
+910,911,Student_0911,Male,English,50.0,Pass
+911,912,Student_0912,Male,Mathematics,70.0,Pass
+912,913,Student_0913,Male,Computer Science,94.0,Pass
+913,914,Student_0914,Female,Computer Science,100.0,Pass
+914,915,Student_0915,Female,Social Studies,78.0,Pass
+915,916,Student_0916,Female,Social Studies,76.0,Pass
+916,917,Student_0917,Female,Social Studies,41.0,Pass
+917,918,Student_0918,Female,English,60.0,Pass
+918,919,Student_0919,Female,Computer Science,56.0,Pass
+919,920,Student_0920,Female,English,59.0,Pass
+920,921,Student_0921,Male,Mathematics,65.0,Pass
+921,922,Student_0922,Male,Social Studies,61.0,Pass
+922,923,Student_0923,Male,English,38.0,Fail
+923,924,Student_0924,Male,English,79.0,Pass
+924,925,Student_0925,Male,Mathematics,52.0,Pass
+925,926,Student_0926,Male,Science,72.0,Pass
+926,927,Student_0927,Male,Computer Science,99.0,Pass
+927,928,Student_0928,Female,Science,54.0,Pass
+928,929,Student_0929,Female,Social Studies,30.0,Fail
+929,930,Student_0930,Male,English,64.0,Pass
+930,931,Student_0931,Male,Mathematics,85.0,Pass
+931,932,Student_0932,Female,Mathematics,97.0,Pass
+932,933,Student_0933,Male,Computer Science,50.0,Pass
+933,934,Student_0934,Male,Science,75.0,Pass
+934,935,Student_0935,Female,Computer Science,61.0,Pass
+935,936,Student_0936,Male,English,66.0,Pass
+936,937,Student_0937,Female,Computer Science,100.0,Pass
+937,938,Student_0938,Male,Mathematics,45.0,Pass
+938,939,Student_0939,Female,Mathematics,72.0,Pass
+939,940,Student_0940,Female,Social Studies,75.0,Pass
+940,941,Student_0941,Female,Social Studies,84.0,Pass
+941,942,Student_0942,Male,English,69.0,Pass
+942,943,Student_0943,Female,Science,73.0,Pass
+943,944,Student_0944,Male,Computer Science,62.0,Pass
+944,945,Student_0945,Male,English,72.0,Pass
+945,946,Student_0946,Male,Social Studies,63.0,Pass
+946,947,Student_0947,Male,Computer Science,77.0,Pass
+947,948,Student_0948,Female,Social Studies,62.0,Pass
+948,949,Student_0949,Female,Computer Science,74.0,Pass
+949,950,Student_0950,Male,Science,68.0,Pass
+950,951,Student_0951,Male,English,85.0,Pass
+951,952,Student_0952,Female,Computer Science,67.0,Pass
+952,953,Student_0953,Male,Mathematics,41.0,Pass
+953,954,Student_0954,Female,Mathematics,87.0,Pass
+954,955,Student_0955,Male,Computer Science,54.0,Pass
+955,956,Student_0956,Male,Computer Science,58.0,Pass
+956,957,Student_0957,Female,Computer Science,59.0,Pass
+957,958,Student_0958,Male,Mathematics,89.0,Pass
+958,959,Student_0959,Female,Mathematics,36.0,Fail
+959,960,Student_0960,Male,Computer Science,100.0,Pass
+960,961,Student_0961,Male,Social Studies,84.0,Pass
+961,962,Student_0962,Male,Social Studies,71.0,Pass
+962,963,Student_0963,Female,Science,67.0,Pass
+963,964,Student_0964,Male,English,72.0,Pass
+964,965,Student_0965,Male,Social Studies,76.0,Pass
+965,966,Student_0966,Male,Mathematics,78.0,Pass
+966,967,Student_0967,Male,Social Studies,76.0,Pass
+967,968,Student_0968,Female,Science,69.0,Pass
+968,969,Student_0969,Female,Science,65.0,Pass
+969,970,Student_0970,Male,English,66.0,Pass
+970,971,Student_0971,Female,Social Studies,65.0,Pass
+971,972,Student_0972,Male,Mathematics,85.0,Pass
+972,973,Student_0973,Male,Mathematics,77.0,Pass
+973,974,Student_0974,Male,Computer Science,24.0,Fail
+974,975,Student_0975,Female,Mathematics,78.0,Pass
+975,976,Student_0976,Female,English,71.0,Pass
+976,977,Student_0977,Female,English,68.0,Pass
+977,978,Student_0978,Female,Mathematics,62.0,Pass
+978,979,Student_0979,Female,Mathematics,85.0,Pass
+979,980,Student_0980,Female,Computer Science,82.0,Pass
+980,981,Student_0981,Female,Mathematics,56.0,Pass
+981,982,Student_0982,Female,Computer Science,74.0,Pass
+982,983,Student_0983,Female,Computer Science,53.0,Pass
+983,984,Student_0984,Male,Mathematics,47.0,Pass
+984,985,Student_0985,Female,Science,59.0,Pass
+985,986,Student_0986,Female,Science,81.0,Pass
+986,987,Student_0987,Female,Computer Science,82.0,Pass
+987,988,Student_0988,Female,Mathematics,76.0,Pass
+988,989,Student_0989,Female,Science,79.0,Pass
+989,990,Student_0990,Female,Mathematics,76.0,Pass
+990,991,Student_0991,Female,Mathematics,58.0,Pass
+991,992,Student_0992,Female,Mathematics,74.0,Pass
+992,993,Student_0993,Female,Social Studies,80.0,Pass
+993,994,Student_0994,Female,Mathematics,79.0,Pass
+994,995,Student_0995,Female,Social Studies,86.0,Pass
+995,996,Student_0996,Male,Computer Science,79.0,Pass
+996,997,Student_0997,Male,Science,73.0,Pass
+997,998,Student_0998,Female,Science,84.0,Pass
+998,999,Student_0999,Female,Science,68.0,Pass
+999,1000,Student_1000,Male,Science,55.0,Pass
